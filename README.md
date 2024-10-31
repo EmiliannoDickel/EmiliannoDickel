@@ -1,2 +1,1 @@
-Olá, meu nome é Emilianno Eduardo Dickel, nasci em 09/06/2004, e atualmente tenho 19 anos, sou natural de Paverama, RS, Brasil. Me formei no Ensino Médio em 2022 no Colégio Teutônia e agora estou cursando o 2º semestre do curso de Engenharia de Software, curso no qual escolhi visando um trabalho flexível e prospero nos próximos anos. Gosto de jogar conversa fora e aprender todos os dias coisas novas, meu Hobby nas horas vagas é por jogos online, especialmente Rust e CS:GO.
-
+O Descontrole já está formado 
