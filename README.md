@@ -9,6 +9,8 @@
 🛠️ No backend, expertise em modelagem e integração de bancos de dados MySQL, garantindo aplicações escaláveis e eficientes.
 
 🚀 Cursando o 4º semestre de Engenharia de Software na Univates, aplico meus conhecimentos diariamente em projetos práticos. Comprometido com aprendizado contínuo, inovação e soluções tecnológicas de alto desempenho.
+
+
 ---
 
 <div> 
