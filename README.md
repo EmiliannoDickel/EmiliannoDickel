@@ -2,13 +2,13 @@
 
 **`Desenvolvedor`**
 
-💻 Iniciando minha jornada como desenvolvedor, com experiência em Java, utilizando Spring Boot, JPA e APIs.
-🎨 No frontend, foco em React, Tailwind CSS e HTML, criando interfaces intuitivas e responsivas.
-🛠️ No backend, experiência na modelagem e integração com bancos de dados MySQL.
+💻 Desenvolvedor em formação, com experiência sólida em Java e especialização no ecossistema Spring Boot, incluindo JPA e integração de APIs.
 
-🚀 Atualmente, estou no 4º semestre de Engenharia de Software na Univates e desenvolvendo projetos no dia a dia.
-Sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores! 🚀
+🎨 No frontend, foco em React, Tailwind CSS e HTML, desenvolvendo interfaces responsivas e intuitivas.
 
+🛠️ No backend, expertise em modelagem e integração de bancos de dados MySQL, garantindo aplicações escaláveis e eficientes.
+
+🚀 Cursando o 4º semestre de Engenharia de Software na Univates, aplico meus conhecimentos diariamente em projetos práticos. Comprometido com aprendizado contínuo, inovação e soluções tecnológicas de alto desempenho.
 ---
 
 <div> 
