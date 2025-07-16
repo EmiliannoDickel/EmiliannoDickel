@@ -2,14 +2,7 @@
 
 **`Desenvolvedor`**
 
-💻 Desenvolvedor em formação, com experiência sólida em Java e especialização no ecossistema Spring Boot, incluindo JPA e integração de APIs.
-
-🎨 No frontend, foco em React, Tailwind CSS e HTML, desenvolvendo interfaces responsivas e intuitivas.
-
-🛠️ No backend, expertise em modelagem e integração de bancos de dados MySQL, garantindo aplicações escaláveis e eficientes.
-
-🚀 Cursando o 4º semestre de Engenharia de Software na Univates, aplico meus conhecimentos diariamente em projetos práticos. Comprometido com aprendizado contínuo, inovação e soluções tecnológicas de alto desempenho.
-
+💻 Atualmente Desenvolvendo um Sistema com uso de C# e SQL Server em meu emprego. Nas horas vagas focando em Java com uso de Spring Boot e IA.
 
 ---
 
