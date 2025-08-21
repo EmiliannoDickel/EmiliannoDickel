@@ -1,12 +1,12 @@
 # 👨‍💻 Emilianno Dickel
 
-**`Desenvolvedor`**
+💻 **`Desenvolvedor`**
 
-💻 Desenvolvedor de Software
-💡 *"NINGUÉM INVEJA O RUIM  
-    NINGUÉM ODEIA O FRACO"*
+🎧 
 
- 
+*"NINGUÉM INVEJA O RUIM  
+NINGUÉM ODEIA O FRACO"*
+
 ---
 
 <div> 
