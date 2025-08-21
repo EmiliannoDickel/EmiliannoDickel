@@ -2,8 +2,8 @@
 
 **`Desenvolvedor`**
 
-💻 Atualmente Desenvolvendo um Sistema com uso de C# e SQL Server em meu emprego. Nas horas vagas focando em Java com uso de Spring Boot e IA.
-
+💻 Borracho y Louco 🇪🇪
+ 
 ---
 
 <div> 
