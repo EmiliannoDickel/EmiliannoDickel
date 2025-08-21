@@ -2,7 +2,9 @@
 
 **`Desenvolvedor`**
 
-💻 Borracho y Louco :estonia:
+💻 Desenvolvedor de Software
+💡 *"NINGUÉM INVEJA O RUIM  
+    NINGUÉM ODEIA O FRACO"*
 
  
 ---
