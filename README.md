@@ -1,15 +1,8 @@
 # 👨‍💻 Emilianno Dickel
 
-💻 **`Desenvolvedor`**
+💻 **`Desenvolvedor`** 
 
-🎧 
-
-*"NINGUÉM INVEJA O RUIM  
-NINGUÉM ODEIA O FRACO"*
-
----
-
-![Grêmio.](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzl1aTFkMXM3MDlqNzJwdmJhc3o0enZudGMwdTQybzluN3Rjd2tiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjVbrw1kjOePEL4s/giphy.gif)
+Em constante evolução 🚀
 
 <div> 
   <a href="https://www.instagram.com/emilianno_dickel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
